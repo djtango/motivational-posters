@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"profi",
+				"profile_on"
+			],
+			[
+				"pick",
+				"pick_an_orange"
+			],
+			[
+				"shuf",
+				"shuf_count"
+			],
+			[
+				"chk",
+				"chk4_9"
+			],
+			[
+				"chk4_",
+				"chk4_2two"
+			],
+			[
+				"prase",
+				"parse_to_next_layer"
+			],
+			[
+				"roman",
+				"roman_to_integer"
+			],
+			[
+				"music",
+				"music_files"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/deon/Desktop/Projects/fizzbuzz/Fizzbuzz.rb",
+		"/home/deon/Desktop/Projects/fizzbuzz/spec/spec_helper.rb",
+		"/home/deon/Desktop/Projects/fizzbuzz/spec/fizzbuzz_spec.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch10-nothing-new/dictionary_sort.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch10-nothing-new/english_number.rb",
+		"/home/deon/Desktop/Projects/fizzbuzz/.rspec",
+		"/home/deon/Desktop/Projects/codewars/next_id.rb",
+		"/home/deon/Desktop/Projects/codewars/min_blocks_scrap.rb",
+		"/home/deon/Desktop/Projects/codewars/min.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch14-blocks-and-procs/even_better_profiling.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch14-blocks-and-procs/better_program_logger/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch14-blocks-and-procs/grandfather_clock/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch14-blocks-and-procs/program_logger/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/codewars/blockscrap.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch14-blocks-and-procs/better_program_logger.rb",
+		"/home/deon/Desktop/Projects/codewars/build_string.rb",
+		"/home/deon/Desktop/Projects/codewars/add_length.rb",
+		"/home/deon/Desktop/Projects/codewars/validate2.rb",
+		"/home/deon/Desktop/Projects/codewars/name_shuffler.rb",
+		"/home/deon/Desktop/Projects/codewars/DNAtoRNA.rb",
+		"/home/deon/Desktop/Projects/codewars/sum.rb",
+		"/home/deon/Desktop/Projects/codewars/solution.rb",
+		"/home/deon/Desktop/Projects/codewars/validate.rb",
+		"/home/deon/Desktop/Documents/50-synaptics.conf",
+		"/home/deon/Desktop/Documents/etc issue backup",
+		"/home/deon/Desktop/Documents/50-synapticsBU.conf",
+		"/home/deon/Desktop/Projects/learn_to_program/ch14-blocks-and-procs/program_logger.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch14-blocks-and-procs/program_logger/how_you_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch13-creating-new-classes/orange_tree.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch14-blocks-and-procs/grandfather_clock.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch13-creating-new-classes/orange_tree/how_you_and_i_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch13-creating-new-classes/dragon_base_text",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch14-blocks-and-procs/even_better_profiling/how_you_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch14-blocks-and-procs/even_better_profiling/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch13-creating-new-classes/interactive_baby_dragon/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch13-creating-new-classes/interactive_baby_dragon.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch13-creating-new-classes/interactive_baby_dragon/how_you_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch09-writing-your-own-methods/roman_numerals.rb",
+		"/home/deon/Documents/Scrap/roman_numerals.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch10-nothing-new/shuffle.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch13-creating-new-classes/extend_the_built_in_classes/how_you_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch13-creating-new-classes/extend_the_built_in_classes/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch13-creating-new-classes/extend_built_in_classes.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch12-new-classes-of-objects/birthday_helper.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch12-new-classes-of-objects/birthday_helper/how_you_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch12-new-classes-of-objects/happy_birthday.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch12-new-classes-of-objects/party_like_its_roman_to_integer_mcmxcix.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch12-new-classes-of-objects/one_billion_seconds.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/spec/ch11/build_a_better_playlist_spec.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch11-reading-and-writing/build_your_own_playlist.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch11-reading-and-writing/build_a_better_playlist/how_you_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch11-reading-and-writing/build_a_better_playlist/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch10-nothing-new/shuffle/how_i_would_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch11-reading-and-writing/build_your_own_playlist/how_you_and_i_could_do_it.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/solutions/ch11-reading-and-writing/safer_picture_downloading/how_i_did_it_on_windows.rb",
+		"/home/deon/Desktop/Projects/learn_to_program/ch11-reading-and-writing/build_a_better_playlist.rb",
+		"/home/deon/Desktop/Documents/Notes/build_a_better_playlist--Question.rb",
+		"/home/deon/Music/playlist - 2015-10-05 08:35:27 +0100.m3u",
+		"/home/deon/Music/playlist - 2015-10-05 08:35:36 +0100.m3u",
+		"/home/deon/Desktop/Projects/learn_to_program/ch11-reading-and-writing/safer_picture_downloading.rb",
+		"/home/deon/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/deon/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 178.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  it 'knows that a number is divisible by 5' do\n      expect(subject.is_divisible_by_five?(5)).to be_truthy\n  end\n\n  it 'knows that a number is not divisible by 5' do\n      expect(subject.is_divisible_by_five?(11)).to be_falsey\n  end\n\n",
+			"expect",
+			"n_hours",
+			"alive?",
+			"born",
+			"#",
+			"~",
+			"num",
+			"'",
+			"365",
+			" shuffle",
+			"split",
+			"undate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"time_now",
+			"alive",
+			"\"",
+			" music_shuffle"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
