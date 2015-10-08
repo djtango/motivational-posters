@@ -1,0 +1,82 @@
+2015-10-08T16:54:43.391434+00:00 heroku[api]: Enable Logplex by deonjtan@gmail.com
+2015-10-08T16:54:43.391434+00:00 heroku[api]: Release v2 created by deonjtan@gmail.com
+2015-10-08T16:55:07.512169+00:00 heroku[api]: Set LANG, RACK_ENV config vars by deonjtan@gmail.com
+2015-10-08T16:55:07.512169+00:00 heroku[api]: Release v3 created by deonjtan@gmail.com
+2015-10-08T16:55:08.020616+00:00 heroku[slug-compiler]: Slug compilation started
+2015-10-08T16:55:08.020626+00:00 heroku[slug-compiler]: Slug compilation finished
+2015-10-08T16:55:07.879002+00:00 heroku[api]: Scale to web=1 by deonjtan@gmail.com
+2015-10-08T16:55:07.945501+00:00 heroku[api]: Deploy d3a5263 by deonjtan@gmail.com
+2015-10-08T16:55:07.945501+00:00 heroku[api]: Release v4 created by deonjtan@gmail.com
+2015-10-08T16:55:10.271198+00:00 heroku[web.1]: Starting process with command `bundle exec rackup config.ru -p 43832`
+2015-10-08T16:55:12.047958+00:00 app[web.1]: /app/config.ru:1:in `require': cannot load such file -- .app (LoadError)
+2015-10-08T16:55:12.047985+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:55:in `instance_eval'
+2015-10-08T16:55:12.047983+00:00 app[web.1]: 	from /app/config.ru:1:in `block in <main>'
+2015-10-08T16:55:12.047986+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:55:in `initialize'
+2015-10-08T16:55:12.047988+00:00 app[web.1]: 	from /app/config.ru:in `<main>'
+2015-10-08T16:55:12.047987+00:00 app[web.1]: 	from /app/config.ru:in `new'
+2015-10-08T16:55:12.047989+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:49:in `eval'
+2015-10-08T16:55:12.047992+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:40:in `parse_file'
+2015-10-08T16:55:12.047990+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:49:in `new_from_string'
+2015-10-08T16:55:12.047993+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:299:in `build_app_and_options_from_config'
+2015-10-08T16:55:12.047997+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:336:in `wrapped_app'
+2015-10-08T16:55:12.048000+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/bin/rackup:4:in `<top (required)>'
+2015-10-08T16:55:12.047998+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:272:in `start'
+2015-10-08T16:55:12.047994+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:208:in `app'
+2015-10-08T16:55:12.047999+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:147:in `start'
+2015-10-08T16:55:12.048002+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/bin/rackup:23:in `load'
+2015-10-08T16:55:12.048004+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/bin/rackup:23:in `<main>'
+2015-10-08T16:55:12.882787+00:00 heroku[web.1]: Process exited with status 1
+2015-10-08T16:55:12.899246+00:00 heroku[web.1]: State changed from starting to crashed
+2015-10-08T16:55:12.899246+00:00 heroku[web.1]: State changed from crashed to starting
+2015-10-08T16:55:15.013221+00:00 heroku[web.1]: Starting process with command `bundle exec rackup config.ru -p 20472`
+2015-10-08T16:55:17.239416+00:00 app[web.1]: /app/config.ru:1:in `require': cannot load such file -- .app (LoadError)
+2015-10-08T16:55:17.239458+00:00 app[web.1]: 	from /app/config.ru:1:in `block in <main>'
+2015-10-08T16:55:17.239479+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:55:in `instance_eval'
+2015-10-08T16:55:17.239497+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:55:in `initialize'
+2015-10-08T16:55:17.239518+00:00 app[web.1]: 	from /app/config.ru:in `new'
+2015-10-08T16:55:17.239537+00:00 app[web.1]: 	from /app/config.ru:in `<main>'
+2015-10-08T16:55:17.239557+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:49:in `eval'
+2015-10-08T16:55:17.239577+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:49:in `new_from_string'
+2015-10-08T16:55:17.239594+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/builder.rb:40:in `parse_file'
+2015-10-08T16:55:17.239614+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:299:in `build_app_and_options_from_config'
+2015-10-08T16:55:17.239631+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:208:in `app'
+2015-10-08T16:55:17.239665+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:272:in `start'
+2015-10-08T16:55:17.239682+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:147:in `start'
+2015-10-08T16:55:17.239716+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/bin/rackup:23:in `load'
+2015-10-08T16:55:17.239647+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/lib/rack/server.rb:336:in `wrapped_app'
+2015-10-08T16:55:17.239698+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/gems/rack-1.6.4/bin/rackup:4:in `<top (required)>'
+2015-10-08T16:55:17.239732+00:00 app[web.1]: 	from /app/vendor/bundle/ruby/2.0.0/bin/rackup:23:in `<main>'
+2015-10-08T16:55:18.108573+00:00 heroku[web.1]: Process exited with status 1
+2015-10-08T16:55:18.132190+00:00 heroku[web.1]: State changed from starting to crashed
+2015-10-08T16:55:42.463809+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=a7e060ae-904b-44e2-8dcb-787cf9abcde0 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T16:55:44.052020+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=25060d87-5e0c-46a3-8219-48580a0ee53d fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T16:55:44.192644+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=ccf9f87b-7844-43fe-a37e-f0c6dc0eb599 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:00.333141+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=3db95854-a59d-4749-bef2-bf1358a73173 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:01.169995+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=93dea638-1104-43fb-ae9a-05480799df79 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:04.053576+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=075e7dd3-f0fe-4105-9f06-5c859574be4e fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:04.564706+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=c5da989b-18cd-4f51-949a-1e80db807b86 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:30.660061+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=b17e8d24-53e2-4b37-b223-5c19527b7946 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:31.679208+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=59e252af-aa19-4216-994d-1c6b2a680c81 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:33.608314+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=3abcd6d8-3f3a-4004-9144-3d89257636f4 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:01:35.865979+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=965a036f-2e01-4080-af79-c70bed250bb9 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:02:47.528220+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=4f030ba8-4e7b-4d2f-b307-a001e35d1567 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:02:48.024880+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=6b9bf702-f21c-42ae-9f9a-04ac12d13b7f fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:47.918259+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=4cc6657c-9a83-442d-88b0-29526b197efc fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:48.520496+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=5f9ebcb2-6e00-4d12-b34b-f330e36e4cbf fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:48.964812+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=50db59a4-8a22-4cbf-b278-9c554b8e8bcb fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:49.471242+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=3a2ed743-596d-4bbb-b1f8-360e9bb981d1 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:49.870477+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=f824d578-3c2f-44f8-81a3-e2e383c733a0 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:49.850190+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=dce15eb1-abf1-47ef-87b1-4d7ce9a2bd25 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:49.879722+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=ce2db6d7-619c-4f2b-8ae0-25a854b01b63 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:50.251019+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=e843c863-e7c3-464d-8099-cae714d1fdae fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:50.337093+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=07b0f776-f252-4092-82a1-9b4a145118ea fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:50.539484+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=147a55e1-8887-4a0b-9454-9a9e99991a86 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:51.008140+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=99e0258d-702d-4e67-a395-ef68e805c8e7 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:59.237162+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=a4471043-75a4-4c6a-bc91-8d1157e08e9c fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:03:59.694791+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=98fdb245-f68d-43e8-ac91-8f6d6677bd5b fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:04:00.127125+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=62a9efe5-2aff-44ea-8573-e99db8dde9ef fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:04:00.320136+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=ab809d49-698f-412d-aa8e-6c5d51e74088 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:04:00.533716+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=b478a011-f3ec-4acf-9745-6f3faeab12bc fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:04:01.306820+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=7f65623c-bd5b-40ad-ad19-0e2de6fe8c8e fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:04:16.246262+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=serene-caverns-3418.herokuapp.com request_id=294e5db0-ddbd-452e-9503-3369e1e97d96 fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
+2015-10-08T17:04:16.960556+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=serene-caverns-3418.herokuapp.com request_id=1592c62e-40f4-42aa-809d-2ed5146454dd fwd="185.53.227.70" dyno= connect= service= status=503 bytes=
